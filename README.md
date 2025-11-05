@@ -45,4 +45,4 @@ Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 # - cài đặt các docker container mariadb (3306), phpmyadmin (8080), nodered/node-red (1880), influxdb (8086), grafana/grafana (3000), nginx (80,443):
 # <img width="1236" height="817" alt="Screenshot 2025-11-05 160411" src="https://github.com/user-attachments/assets/eb1410a4-4d26-478d-bcd6-2a0945f508b9" />
 # 4. Lập trình web frontend+backend: # fontend - Tạo cơ sở dữ liệu trong phpMyAdmin:
-# - Cấu hình nginx để chạy được website qua url http://fullname.com
+# 5. Cấu hình nginx để chạy được website qua url http://fullname.com
