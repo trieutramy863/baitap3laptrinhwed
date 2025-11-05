@@ -49,4 +49,8 @@ Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 # <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/67d5a581-9000-477d-9df7-893b2f34817b" />
 # - Cấu hình nginx để chạy được website qua url http://fullname.com
 # <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/74bea5fb-a67a-46b8-80b5-dad0c6f594e6" />
+# - Cấu hình nginx để http://fullname.com/nodered truy cập vào nodered qua cổng 80
+# <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/19857e62-3827-44d3-8b0e-525f2fcf4d61" /> 
 # 
+# 
+
