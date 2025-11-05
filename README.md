@@ -51,6 +51,7 @@ Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 # <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/74bea5fb-a67a-46b8-80b5-dad0c6f594e6" />
 # - Cấu hình nginx để http://fullname.com/nodered truy cập vào nodered qua cổng 80
 # <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/19857e62-3827-44d3-8b0e-525f2fcf4d61" /> 
-# 
+# - Cấu hình nginx để http://fullname.com/grafana truy cập vào grafana qua cổng 80
+# <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/8e771db0-64d6-45b4-9b5e-c0b969a11b25" />
 # 
 
