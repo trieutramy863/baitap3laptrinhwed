@@ -46,3 +46,7 @@ Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 # <img width="1236" height="817" alt="Screenshot 2025-11-05 160411" src="https://github.com/user-attachments/assets/eb1410a4-4d26-478d-bcd6-2a0945f508b9" />
 # 4. Lập trình web frontend+backend: # fontend - Tạo cơ sở dữ liệu trong phpMyAdmin:
 # 5. Cấu hình nginx để chạy được website qua url http://fullname.com
+# <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/67d5a581-9000-477d-9df7-893b2f34817b" />
+# - Cấu hình nginx để chạy được website qua url http://fullname.com
+# <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/74bea5fb-a67a-46b8-80b5-dad0c6f594e6" />
+# 
