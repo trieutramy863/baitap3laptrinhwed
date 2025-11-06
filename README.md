@@ -1,4 +1,4 @@
-# baitap3laptrinhwed
+<img width="875" height="496" alt="Screenshot 2025-11-06 230630" src="https://github.com/user-attachments/assets/bb8fc953-ad0f-48b6-aff5-bcfc708226a8" /># baitap3laptrinhwed
 # Bài tập 3 : môn Phát triển ứng dụng trên nền web Giảng viên : Đỗ Duy Cốp Lớp học phần: 58KTPM Ngày giao : 2025-10-24 13:50 Hạn nộp : 2025-11-05 00:00
 # Yêu cầu : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
@@ -45,6 +45,10 @@ Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 # - cài đặt các docker container mariadb (3306), phpmyadmin (8080), nodered/node-red (1880), influxdb (8086), grafana/grafana (3000), nginx (80,443):
 # <img width="1236" height="817" alt="Screenshot 2025-11-05 160411" src="https://github.com/user-attachments/assets/eb1410a4-4d26-478d-bcd6-2a0945f508b9" />
 # 4. Lập trình web frontend+backend: # fontend - Tạo cơ sở dữ liệu trong phpMyAdmin:
+# Tạo cơ sở dữ liệu trong phpMyAdmin
+# <img width="1194" height="1199" alt="Screenshot 2025-11-06 232125" src="https://github.com/user-attachments/assets/1a94950c-24ea-4a82-b746-77200d7d5d88" />
+# Tạo Nodered để kết nối với MariaDB
+# <img width="875" height="496" alt="Screenshot 2025-11-06 230630" src="https://github.com/user-attachments/assets/baa687c0-4bbd-4afd-a47d-147b3dcc44d1" />
 # 5. Cấu hình nginx để chạy được website qua url http://fullname.com
 # <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/67d5a581-9000-477d-9df7-893b2f34817b" />
 # - Cấu hình nginx để chạy được website qua url http://trieutramy.com
