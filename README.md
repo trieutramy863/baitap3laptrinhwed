@@ -51,7 +51,8 @@ Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 # 5. Cấu hình nginx để chạy được website qua url http://fullname.com
 # <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/67d5a581-9000-477d-9df7-893b2f34817b" />
 # - Cấu hình nginx để chạy được website qua url http://trieutramy.com
-# <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/74bea5fb-a67a-46b8-80b5-dad0c6f594e6" />
+# ![Uploading Screenshot 2025-11-06 233729.png…]()
+
 # - Cấu hình nginx để http://trieutramy.com/nodered 
 # <img width="1101" height="660" alt="Screenshot 2025-11-06 233552" src="https://github.com/user-attachments/assets/c731586b-2390-477e-b60c-1601a09b01ad" />
 # - Cấu hình nginx để http://trieutramy.com/grafana 
