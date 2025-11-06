@@ -193,7 +193,7 @@ server {
 # - Cấu hình nginx để http://trieutramy.com/grafana 
 # <img width="791" height="479" alt="Screenshot 2025-11-06 233400" src="https://github.com/user-attachments/assets/ac3568de-d5aa-47ad-9e72-96c65c03f469" />
 # 6.Kết Luận
-# Qua quá trình thực hiện bài tập, em đã nắm được cách cài đặt Ubuntu trên máy ảo VMware và triển khai các dịch vụ như MariaDB, phpMyAdmin, Node-RED, InfluxDB, Grafana và Nginx thông qua Docker với tệp cấu hình docker-compose.yml. Tất cả các thành phần đều được thiết lập và vận hành ổn định.
+Qua quá trình thực hiện bài tập, em đã nắm được cách cài đặt Ubuntu trên máy ảo VMware và triển khai các dịch vụ như MariaDB, phpMyAdmin, Node-RED, InfluxDB, Grafana và Nginx thông qua Docker với tệp cấu hình docker-compose.yml. Tất cả các thành phần đều được thiết lập và vận hành ổn định.
 
 Hệ thống website dạng SPA cho phép người dùng đăng nhập, theo dõi dữ liệu cảm biến theo thời gian thực, đồng thời xem lại dữ liệu lịch sử thông qua biểu đồ trên Grafana. Node-RED đóng vai trò thu thập và ghi dữ liệu, trong khi Nginx hoạt động như một web server, giúp truy cập thống nhất thông qua các tên miền được cấu hình sẵn.
 
