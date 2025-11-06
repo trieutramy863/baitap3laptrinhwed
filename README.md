@@ -1,7 +1,6 @@
-<img width="875" height="496" alt="Screenshot 2025-11-06 230630" src="https://github.com/user-attachments/assets/bb8fc953-ad0f-48b6-aff5-bcfc708226a8" /># baitap3laptrinhwed
+
 # Bài tập 3 : môn Phát triển ứng dụng trên nền web Giảng viên : Đỗ Duy Cốp Lớp học phần: 58KTPM Ngày giao : 2025-10-24 13:50 Hạn nộp : 2025-11-05 00:00
 # Yêu cầu : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
-
 Cài đặt môi trường linux: SV chọn 1 trong các phương án
 enable wsl: cài đặt docker desktop
 enable wsl: cài đặt ubuntu
