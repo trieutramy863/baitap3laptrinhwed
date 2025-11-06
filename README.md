@@ -49,10 +49,8 @@ Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 # Tạo Nodered để kết nối với MariaDB
 # <img width="875" height="496" alt="Screenshot 2025-11-06 230630" src="https://github.com/user-attachments/assets/baa687c0-4bbd-4afd-a47d-147b3dcc44d1" />
 # 5. Cấu hình nginx để chạy được website qua url http://fullname.com
-# <img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/67d5a581-9000-477d-9df7-893b2f34817b" />
 # - Cấu hình nginx để chạy được website qua url http://trieutramy.com
-# ![Uploading Screenshot 2025-11-06 233729.png…]()
-
+# <img width="964" height="718" alt="Screenshot 2025-11-06 233729" src="https://github.com/user-attachments/assets/1f635bf0-6635-44d6-b526-da8bdbde765d" />
 # - Cấu hình nginx để http://trieutramy.com/nodered 
 # <img width="1101" height="660" alt="Screenshot 2025-11-06 233552" src="https://github.com/user-attachments/assets/c731586b-2390-477e-b60c-1601a09b01ad" />
 # - Cấu hình nginx để http://trieutramy.com/grafana 
